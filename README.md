@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darius! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/darius-lane-64b664218/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@AdventMechs">Communication Coach</a></h1>
+<h1>Hi, I'm Darius! <br/><a href="https://github.com/Advent-Mechs">Programmer</a>, <a href="https://www.linkedin.com/in/darius-lane-64b664218/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@AdventMechs">Communication Coach</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
