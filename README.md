@@ -8,7 +8,7 @@
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/TZSUX3JYPLQ2)
 - IT Fundamentals PRO : Credential ID - 6-U6-6HDB
 
-<h2> 🤳 Connect with me:</h2>
+
 
 
 
